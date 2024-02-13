@@ -15,7 +15,8 @@ public class NarrowingTypeCast {
             byte b1=(byte)a1;
             System.out.println(b1);
     
-    
+            //Output Is -124 because byte size is -128 to +127 
+            //(128=-128,129=-127,130=-126,131=-125,132=-124)
     
     
         }
