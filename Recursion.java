@@ -4,6 +4,7 @@ public class Recursion {
     }
     public static void mul(int a,int b){
         int ans=a*b;
+        
         System.out.println(ans);
         mul(5,5);
     }
