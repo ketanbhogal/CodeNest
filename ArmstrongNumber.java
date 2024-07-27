@@ -16,5 +16,5 @@ public class ArmstrongNumber {
  compile Time = Success
  Run Time = Sucess
 
- 256
+ 256  
  */
